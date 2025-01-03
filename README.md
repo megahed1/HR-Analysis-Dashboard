@@ -12,6 +12,13 @@ This is an HR Dashboard built entirely in Excel. The project showcases my skills
 - Data breakdown by department, location, and qualifications.
 - Year-over-year and monthly performance analysis.
 
+## How to Work with the Data:
+If you'd like to replicate this project or perform your own analysis:
+1. You'll find the dataset in a file named **HR Dataset**.
+2. Use **Power Query** to **append all the tables** in the dataset into a single table for analysis.
+3. Load the consolidated data into **Pivot Tables** for further exploration and analysis.
+4. Finally, create your own visualizations to represent the data in an engaging manner.
+   
 ## Tools Used:
 - Microsoft Excel
 - Power Query
