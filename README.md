@@ -18,7 +18,7 @@ This is an HR Dashboard built entirely in Excel. The project showcases my skills
 - Pivot Tables
 
 ## Screenshots:
-![Dashboard Screenshot]([link-to-screenshot.png](https://github.com/megahed1/HR-Analysis-Dashboard/blob/main/Dashboard.jpg?raw=true))
+![Dashboard Screenshot]((https://github.com/megahed1/HR-Analysis-Dashboard/blob/main/Dashboard.jpg?raw=true))
 
 ---
 
